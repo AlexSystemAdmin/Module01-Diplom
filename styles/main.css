@@ -1,5 +1,5 @@
 body{
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Montserrat', 'sans-serif';
 }
 
 /* <Menu> */
@@ -618,6 +618,7 @@ body{
     line-height: 150%;
     color: #2B3541;
     box-sizing: border-box;
+    font-family: 'Montserrat';
 }
 
 .input-e-mail:focus{
